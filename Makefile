@@ -5,8 +5,8 @@ PROJECT = farwest_ui
 # Dependencies.
 
 DEPS = farwest_core erlydtl
-dep_farwest_core = https://github.com/extend/farwest_core master
-dep_erlydtl = https://github.com/evanmiller/erlydtl master
+dep_farwest_core = pkg://farwest_core master
+dep_erlydtl = pkg://erlydtl master
 
 # Standard targets.
 
